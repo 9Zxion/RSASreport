@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="24px" viewBox="0 0 22 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>低</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#8ED347" offset="0%"></stop>
+            <stop stop-color="#55A722" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="1-仪表盘" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.1-仪表盘-漏洞总数详情" transform="translate(-923.000000, -485.000000)">
+            <g id="编组-63" transform="translate(723.000000, 485.000000)">
+                <g id="编组" transform="translate(200.000000, 0.000000)">
+                    <g id="安全" fill-rule="nonzero">
+                        <path d="M20.955,1.87826087 C17.765,0.678260885 14.74,0 11,0 C7.25999999,0 4.23500001,0.678260885 1.04500002,1.87826087 C0.440000008,2.08695654 0,2.66086956 0,3.33913045 L0,13.1478261 C0,18.3130435 7.7,22.6434783 10.285,23.8434783 C10.505,23.9478261 10.78,24 11,24 C11.22,24 11.495,23.9478261 11.715,23.8434783 C14.3,22.6434783 22,18.3130435 22,13.1478261 L22,3.33913045 C22,2.66086959 21.56,2.08695654 20.955,1.87826087 Z" id="路径" fill="#E6F2DE"></path>
+                        <path d="M19.145,3.56521739 C16.535,2.5652174 14.06,2 11,2 C7.94,2 5.465,2.5652174 2.85500001,3.56521739 C2.36000001,3.73913045 2,4.2173913 2,4.78260871 L2,12.9565217 C2,17.2608696 8.3,20.8695652 10.415,21.8695652 C10.595,21.9565217 10.82,22 11,22 C11.18,22 11.405,21.9565217 11.585,21.8695652 C13.7,20.8695652 20,17.2608696 20,12.9565217 L20,4.78260871 C20,4.21739132 19.64,3.73913045 19.145,3.56521739 Z" id="路径" fill="url(#linearGradient-1)"></path>
+                    </g>
+                    <text id="安" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="5" y="15">安</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
